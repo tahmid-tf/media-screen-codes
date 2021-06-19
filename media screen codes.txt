@@ -1,0 +1,48 @@
+/* --------------------------------------------- media screen for tab ( portrait ) ------------------------------------------- */
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation: portrait) {
+ 
+}
+
+/* ------------------------------------------------------------------------------------ end - media screen for tab ( portrait )  */
+
+/* ------------------------------------------ media screen for tab (landscape) ------------------------------------------------- */
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation: landscape) {
+  /* For landscape layouts only */
+
+  
+}
+
+/* -------------------------------------------------------------------------------------- end - media screen for tab (landscape) */
+
+/* --------------------------------------------- media screen for tab (pro) portrait ------------------------------------------- */
+
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+ 
+}
+
+/* ---------------------------------------------------------------------------------- end - media screen for tab (pro) portrait */
+
+/* ---------------------------------------------- media screen for tab ( pro ) landscape --------------------------------------- */
+
+@media only screen and (min-device-width: 1366px) and (min-device-height: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+
+}
+
+/* ------------------------------------------------------------------------------- end - media screen for tab ( pro ) landscape  */
+
+/* ------------------------------------------------------- media screen for mobile devices ------------------------------------- */
+@media only screen and (max-width: 600px) {
+ 
+}
+
+/* --------------------------------------------------------------------------------------  end - media screen for mobile devices */
+
+/* ---------------------------------------- media screen for 1366 x 768 desktop screens ---------------------------------------- */
+
+@media only screen and (device-width: 1366px) and (device-height: 768px) {
+ 
+}
+
+/* --------------------------------------------------------------------------- end - media screen for 1366 x 768 desktop screens */
